@@ -1,0 +1,49 @@
+git init
+
+git remote add origin "Path of the Remte Repository"
+
+*******************************************************
+To Pull the file from remote repo master branch:
+
+git pull origin master
+
+
+*******************************************************
+Inorder to check what are the files part of git or not:
+
+git status
+
+
+*******************************************************
+Inorder to add single file to git repo:
+
+1. First we need to add this file to index
+
+git add filename (Ex: git add sample.txt)
+
+2. Now add the file to git repo by using commit
+
+git commit -m "Message"
+
+*******************************************************
+Inorder to add multiple files to git repo:
+
+1. First we need to add files to index
+
+git add -A
+
+2. Now add the files to git repo by using commit
+
+git commit -a -m "Message"
+
+
+*******************************************************
+Inorder to see the logs till now
+
+git log
+
+
+*******************************************************
+Moving file from GIT repo to GITHUB repo
+
+git push origin master
