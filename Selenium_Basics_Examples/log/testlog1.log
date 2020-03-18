@@ -1,0 +1,60 @@
+2018-08-20 14:31:38,277 [main] INFO AnnotationsDemo1 - This is before test suite
+2018-08-20 14:31:38,293 [main] INFO AnnotationsDemo1 - This is before test
+2018-08-20 14:31:38,293 [main] INFO AnnotationsDemo1 - This is before class
+2018-08-20 14:31:38,308 [main] INFO AnnotationsDemo1 - This is before method
+2018-08-20 14:31:38,308 [main] INFO AnnotationsDemo1 - This is actual test case - 1
+2018-08-20 14:31:38,308 [main] INFO AnnotationsDemo1 - This is after method
+2018-08-20 14:31:38,324 [main] INFO AnnotationsDemo1 - This is before method
+2018-08-20 14:31:38,324 [main] INFO AnnotationsDemo1 - This is actual test case - 2
+2018-08-20 14:31:38,324 [main] INFO AnnotationsDemo1 - This is after method
+2018-08-20 14:31:38,339 [main] INFO AnnotationsDemo1 - This is after class
+2018-08-20 14:31:38,339 [main] INFO AnnotationsDemo1 - This is before test
+2018-08-20 14:31:38,402 [main] INFO AnnotationsDemo1 - This is before test suite
+2018-08-21 18:14:21,655 [main] INFO AnnotationsDemo1 - This is before test suite
+2018-08-21 18:14:21,769 [main] INFO AnnotationsDemo1 - This is before test
+2018-08-21 18:14:21,779 [main] INFO AnnotationsDemo1 - This is before class
+2018-08-21 18:14:21,787 [main] INFO AnnotationsDemo1 - This is before method
+2018-08-21 18:14:21,801 [main] INFO AnnotationsDemo1 - This is actual test case - 1
+2018-08-21 18:14:21,830 [main] INFO AnnotationsDemo1 - This is after method
+2018-08-21 18:14:21,833 [main] INFO AnnotationsDemo1 - This is before method
+2018-08-21 18:14:21,837 [main] INFO AnnotationsDemo1 - This is actual test case - 2
+2018-08-21 18:14:21,845 [main] INFO AnnotationsDemo1 - This is after method
+2018-08-21 18:14:21,846 [main] INFO AnnotationsDemo1 - This is after class
+2018-08-21 18:14:21,849 [main] INFO AnnotationsDemo1 - This is before test
+2018-08-21 18:14:21,962 [main] INFO AnnotationsDemo1 - This is before test suite
+2019-01-09 15:20:43,436 [main] INFO AnnotationsDemo1 - This is before test suite
+2019-01-09 15:20:43,483 [main] INFO AnnotationsDemo1 - This is before test
+2019-01-09 15:20:43,483 [main] INFO AnnotationsDemo1 - This is before class
+2019-01-09 15:20:43,483 [main] INFO AnnotationsDemo1 - This is before method
+2019-01-09 15:20:43,499 [main] INFO AnnotationsDemo1 - This is actual test case - 1
+2019-01-09 15:20:43,499 [main] INFO AnnotationsDemo1 - This is after method
+2019-01-09 15:20:43,514 [main] INFO AnnotationsDemo1 - This is before method
+2019-01-09 15:20:43,514 [main] INFO AnnotationsDemo1 - This is actual test case - 2
+2019-01-09 15:20:43,514 [main] INFO AnnotationsDemo1 - This is after method
+2019-01-09 15:20:43,514 [main] INFO AnnotationsDemo1 - This is after class
+2019-01-09 15:20:43,514 [main] INFO AnnotationsDemo1 - This is before test
+2019-01-09 15:20:43,624 [main] INFO AnnotationsDemo1 - This is before test suite
+2019-01-09 15:21:49,659 [main] INFO AnnotationsDemo1 - This is before test suite
+2019-01-09 15:21:49,659 [main] INFO AnnotationsDemo1 - This is before test
+2019-01-09 15:21:49,675 [main] INFO AnnotationsDemo1 - This is before class
+2019-01-09 15:21:49,675 [main] INFO AnnotationsDemo1 - This is before method
+2019-01-09 15:21:49,690 [main] INFO AnnotationsDemo1 - This is actual test case - 1
+2019-01-09 15:21:49,690 [main] INFO AnnotationsDemo1 - This is after method
+2019-01-09 15:21:49,690 [main] INFO AnnotationsDemo1 - This is before method
+2019-01-09 15:21:49,706 [main] INFO AnnotationsDemo1 - This is actual test case - 2
+2019-01-09 15:21:49,706 [main] INFO AnnotationsDemo1 - This is after method
+2019-01-09 15:21:49,706 [main] INFO AnnotationsDemo1 - This is after class
+2019-01-09 15:21:49,706 [main] INFO AnnotationsDemo1 - This is after test
+2019-01-09 15:21:49,789 [main] INFO AnnotationsDemo1 - This is before test suite
+2019-01-09 15:25:42,102 [main] INFO AnnotationsDemo1 - This is before test suite
+2019-01-09 15:25:42,118 [main] INFO AnnotationsDemo1 - This is before test
+2019-01-09 15:25:42,133 [main] INFO AnnotationsDemo1 - This is before class
+2019-01-09 15:25:42,133 [main] INFO AnnotationsDemo1 - This is before method
+2019-01-09 15:25:42,149 [main] INFO AnnotationsDemo1 - This is actual test case - 1
+2019-01-09 15:25:42,149 [main] INFO AnnotationsDemo1 - This is after method
+2019-01-09 15:25:42,165 [main] INFO AnnotationsDemo1 - This is before method
+2019-01-09 15:25:42,165 [main] INFO AnnotationsDemo1 - This is actual test case - 2
+2019-01-09 15:25:42,165 [main] INFO AnnotationsDemo1 - This is after method
+2019-01-09 15:25:42,165 [main] INFO AnnotationsDemo1 - This is after class
+2019-01-09 15:25:42,180 [main] INFO AnnotationsDemo1 - This is after test
+2019-01-09 15:25:42,258 [main] INFO AnnotationsDemo1 - This is after test suite

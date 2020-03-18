@@ -1,0 +1,15 @@
+2019-01-18 16:32:26,459 INFO  [Logger] This will execute before Test Suite ie before Test and Class 
+2019-01-18 16:32:26,490 INFO  [Logger] This will execute before Test ie before Class and after Test Suite 
+2019-01-18 16:32:26,506 INFO  [Logger] This will execute before Class ie before Method and after Test Suite and Test 
+2019-01-18 16:32:26,521 INFO  [Logger] This will execute before Method ie before Test Case and after Test Suite, Test and Class 
+2019-01-18 16:32:26,521 INFO  [Logger] This will execute Test Case ie after Test Suite, Test, Class and Method 
+2019-01-21 11:09:30,952 INFO  [Logger] This will execute before Test Suite ie before Test and Class 
+2019-01-21 11:09:30,952 INFO  [Logger] This will execute before Test ie before Class and after Test Suite 
+2019-01-21 11:09:30,985 INFO  [Logger] This will execute before Class ie before Method and after Test Suite and Test 
+2019-01-21 11:09:30,985 INFO  [Logger] This will execute before Method ie before Test Case and after Test Suite, Test and Class 
+2019-01-21 11:09:31,000 INFO  [Logger] This will execute Test Case ie after Test Suite, Test, Class and Method 
+2019-01-21 11:10:39,962 INFO  [Logger] This will execute before Test Suite ie before Test and Class 
+2019-01-21 11:10:39,962 INFO  [Logger] This will execute before Test ie before Class and after Test Suite 
+2019-01-21 11:10:39,978 INFO  [Logger] This will execute before Class ie before Method and after Test Suite and Test 
+2019-01-21 11:10:39,978 INFO  [Logger] This will execute before Method ie before Test Case and after Test Suite, Test and Class 
+2019-01-21 11:10:39,993 INFO  [Logger] This will execute Test Case ie after Test Suite, Test, Class and Method 
